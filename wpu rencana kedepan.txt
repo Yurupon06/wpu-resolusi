@@ -4,6 +4,7 @@ jago ngoding
   ^HTML
   ^JS
   ^CSS
+  ^php
 *jago python
 jago laravel
 jago frontend
