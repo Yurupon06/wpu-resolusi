@@ -1,5 +1,6 @@
 Rencana kedepan
 jago ngoding
+*jago semua bahasa pemrograman
 jago laravel
 jago frontend
 jago backend
