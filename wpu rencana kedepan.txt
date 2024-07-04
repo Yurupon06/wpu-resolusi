@@ -1,7 +1,10 @@
 Rencana kedepan
 jago ngoding
 *jago semua bahasa pemrograman
-*jago python
+  ^belajar framework JS
+    ^Vue.js
+    ^React.js
 jago laravel
+  ^artisan
 jago frontend
 jago backend
