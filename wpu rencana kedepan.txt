@@ -1,6 +1,10 @@
 Rencana kedepan
 jago ngoding
 *jago semua bahasa pemrograman
+  ^HTML
+  ^JS
+  ^CSS
+  ^php
 *jago python
 jago laravel
 jago frontend
